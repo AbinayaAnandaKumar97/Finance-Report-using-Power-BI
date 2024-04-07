@@ -1,21 +1,31 @@
-# Login-SignUp-Page-Figma-Designs-
-Login/SignUp Page
+Hello Everyone,
 
-Hello there !!
+I am excited to share with you the Finance Dashboard crafted in Power BI, utilizing the Finance Excel Workbook provided by Microsoft. 
 
-Welcome to the login and signup page, designed for your convenience on the iPhone 13 Mini. As you prepare to dive into the digital world, let's ensure you have the means to access all that awaits.
-Here lies the gateway to your digital adventures – the Login/SignUp page. Within this intuitive interface, you'll find everything you need to begin your journey with ease.
+Objective:
 
--Enter your email and password, then simply tap the login button to gain access to features and content. Should you forget your password, a helpful link is provided to guide you through the recovery process.
+The aim with this Power BI Dashboard Project is to delve into the financial performance of the company, leveraging the comprehensive Microsoft Sample Data.
 
--New to the scene? No problem. Choose to continue with your preferred social account – whether it's Google, Facebook, Twitter, or Apple ID – and seamlessly integrate into the community.
+Purpose:
 
--Ready to create your account? Follow the link to the SignUp page, where you can input your email, password, and phone number to get started. Alternatively, register with your social accounts for a swift entry into the platform.
+I aspire to build a visually captivating dashboard that not only provides an overview of the company's financial metrics but also empowers stakeholders to make well-informed business decisions.
 
--And should you find yourself back at the Login/SignUp page, a simple link will guide you back to where you left off, ready to continue your journey.
+Sections in the Report:
 
--So whether you're a existing user or a newcomer to the digital realm, let's embark on this journey together. Your iPhone 13 Mini serves as your key, and this Login/SignUp page is your portal to endless possibilities.
+The report is thoughtfully segmented to facilitate efficient data management:
 
-Thank you for you time. Now, please take a moment to explore the UI/UX login and signup page design using Figma. Happy exploring!
+- Data Slicing: Users have the flexibility to dissect the data by Segments, Country, and Year, enabling focused analysis.
+  
+- Key Metrics Cards: I have integrated cards displaying essential metrics such as Total Units Sold, Total Gross Sale, and Total Profit, offering a quick snapshot of the company's performance.
 
-https://www.figma.com/file/NHFIwOB5hq7Ts7dCPhOkhH/Login-and-Signup-Page?type=design&node-id=0%3A1&mode=design&t=HnpymSTAIkmpnvEz-1
+- Clustered Bar Chart: This visually intuitive chart plots Profit Quarterly against the years, allowing for easy identification of quarterly trends.
+
+- Area Chart: To provide a more granular view, an Area Chart depicting Profit on a monthly basis has been incorporated, aiding in the understanding of monthly fluctuations.
+
+- Reset Button: For added convenience, I haveve included a Reset Button at the top, enabling users to swiftly clear all slicers. Simply by holding CTRL and clicking on reset.
+
+I am excited about the potential of this dashboard to enhance the financial analysis and decision-making processes. Your feedback and suggestions are greatly valued as I continue to refine and optimize this tool.
+
+Regards,
+
+Abinaya
