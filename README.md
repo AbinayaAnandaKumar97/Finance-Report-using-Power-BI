@@ -29,3 +29,5 @@ I am excited about the potential of this dashboard to enhance the financial anal
 Regards,
 
 Abinaya
+
+![Screenshot 2024-04-07 150233](https://github.com/AbinayaAnandaKumar97/Finance-Report-using-Power-BI/assets/156929713/8c2c3e9a-99ac-478f-8e43-1451ffe58514)
