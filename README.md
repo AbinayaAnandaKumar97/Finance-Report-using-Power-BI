@@ -1,16 +1,18 @@
+## Finance Report Dashboard
+
 Hello Everyone,
 
 I am excited to share with you the Finance Dashboard crafted in Power BI, utilizing the Finance Excel Workbook provided by Microsoft. 
 
-Objective:
+## Objective:
 
 The aim with this Power BI Dashboard Project is to delve into the financial performance of the company, leveraging the comprehensive Microsoft Sample Data.
 
-Purpose:
+## Purpose:
 
 I aspire to build a visually captivating dashboard that not only provides an overview of the company's financial metrics but also empowers stakeholders to make well-informed business decisions.
 
-Sections in the Report:
+## Sections in the Report:
 
 The report is thoughtfully segmented to facilitate efficient data management:
 
@@ -29,5 +31,7 @@ I am excited about the potential of this dashboard to enhance the financial anal
 Regards,
 
 Abinaya
+
+## Visual:
 
 ![Screenshot 2024-04-07 150233](https://github.com/AbinayaAnandaKumar97/Finance-Report-using-Power-BI/assets/156929713/8c2c3e9a-99ac-478f-8e43-1451ffe58514)
